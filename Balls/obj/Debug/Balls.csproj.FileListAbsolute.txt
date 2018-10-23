@@ -1,0 +1,9 @@
+D:\Projects\Game_balls\Balls\bin\Debug\Balls.exe.config
+D:\Projects\Game_balls\Balls\bin\Debug\Balls.exe
+D:\Projects\Game_balls\Balls\bin\Debug\Balls.pdb
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.csprojResolveAssemblyReference.cache
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.FormMain.resources
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.Properties.Resources.resources
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.csproj.GenerateResource.Cache
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.exe
+D:\Projects\Game_balls\Balls\obj\Debug\Balls.pdb
